@@ -40,7 +40,8 @@ jobs:
 
       - name: Sync Capacitor
         run: |
-          npx cap sync android --prefix client
+          cd client
+          npx cap sync android
 
       - name: Build with Gradle
         run: |
