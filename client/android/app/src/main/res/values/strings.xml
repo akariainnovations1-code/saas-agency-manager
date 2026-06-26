@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Akaria Innovations</string>
+    <string name="title_activity_main">Akaria Innovations</string>
+    <string name="package_name">com.akariainnovations.app</string>
+    <string name="custom_url_scheme">com.akariainnovations.app</string>
+</resources>
